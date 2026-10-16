@@ -6,6 +6,10 @@ CS 413 — Analysis of Algorithms
 
 Python 3.10+ (standard library only — `heapq`, `dataclasses`, `fractions`, `itertools`).
 
+## AI Usage
+
+Claude was used to brainstorm a solution that fits the project's requirements, and to implement the solution in Python. The code was reviewed and the outputs were measured to ensure the correct outcome is met.
+
 ## How to run
 
 No compilation step is needed.
